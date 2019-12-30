@@ -1,1 +1,6 @@
-console.log("Lets use Github Bitches!!!");
+function sayhi(name)
+{
+	console.log("Hello, " + name +" !!!");
+} 
+
+sayhi('Shivam');
